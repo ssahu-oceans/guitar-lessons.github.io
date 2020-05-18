@@ -19,23 +19,23 @@
     + [ID parts of the guitar from memory](#sub-sub-heading)
     
     
-  * _[Lesson 2: Learning the Fretboard Notes](#sub-heading)_
+-**[Lesson 2: Learning the Fretboard Notes](#heading)**
   
-  * _[Lesson 3: Single Notes, Fretboard Tracking](#sub-heading)_
+-**Lesson 3: Single Notes, Fretboard Tracking](#sub-heading)**
   
-  * _[Lesson 4: First Chords](#sub-heading)_
+-**[Lesson 4: First Chords](#sub-heading)**
   
-  * _[Lesson 5: Additional Chord Types](#sub-heading)_
+-**[Lesson 5: Additional Chord Types](#sub-heading)**
   
-  * _[Lesson 6: Intro to Basic Guitar Scales](#sub-heading)_
+-**[Lesson 6: Intro to Basic Guitar Scales](#sub-heading)**
   
-  * _[Lesson 7: Intervals and Power Chords](#sub-heading)_
+-**[Lesson 7: Intervals and Power Chords](#sub-heading)**
   
-  * _[Lesson 8: Soloing Technique](#sub-heading)_
+-**[Lesson 8: Soloing Technique](#sub-heading)**
   
-  * _[Lesson 9: More Complex Scales and Improvising](#sub-heading)_
+-**[Lesson 9: More Complex Scales and Improvising](#sub-heading)**
   
-  * _[Lesson 10: Rhythm and Song Dynamics](#sub-heading)_
+-**Lesson 10: Rhythm and Song Dynamics](#sub-heading)**
   
   
   

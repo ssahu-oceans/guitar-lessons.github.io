@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Beginners Guitar Lessons for Arushi Shory
 
-You can use the [editor on GitHub](https://github.com/ssahu-oceans/guitar-lessons.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Content: First Few Weeks
 
-### Markdown
+- **[1. Basic Guitar Anatomy](#heading)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  * _[Training your mind and fingers:](#sub-heading)_
+    + [Physical parts of the guitar](#sub-sub-heading)
+    + [Difference between acoustic and electric guitars](#sub-sub-heading)
+    + [Holding a guitar properly (sitting/standing)](#sub-sub-heading)
+    + [Holding a pick properly](#sub-sub-heading)
+    + [Basics of stringing and tuning a guitar](#sub-sub-heading)
+    
+  * _[Lesson 1: Checklist:](#sub-heading)_
+    + [Alternate, back and forth strumming of open strings](#sub-sub-heading)
+    + [Picking of open strings and single notes](#sub-sub-heading)
+    + [Using a tuner and the tuning pegs](#sub-sub-heading)
+    + [ID parts of the guitar from memory](#sub-sub-heading)
+    
+    
+  * _[Lesson 2: Learning the Fretboard Notes](#sub-heading)_
+  
+  * _[Lesson 3: Single Notes, Fretboard Tracking](#sub-heading)_
+  
+  * _[Lesson 4: First Chords](#sub-heading)_
+  
+  * _[Lesson 5: Additional Chord Types](#sub-heading)_
+  
+  * _[Lesson 6: Intro to Basic Guitar Scales](#sub-heading)_
+  
+  * _[Lesson 7: Intervals and Power Chords](#sub-heading)_
+  
+  * _[Lesson 8: Soloing Technique](#sub-heading)_
+  
+  * _[Lesson 9: More Complex Scales and Improvising](#sub-heading)_
+  
+  * _[Lesson 10: Rhythm and Song Dynamics](#sub-heading)_
+  
+  
+  
+   
+   
+    
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssahu-oceans/guitar-lessons.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Author: Saurav Sahu (ssahu@uvic.ca)

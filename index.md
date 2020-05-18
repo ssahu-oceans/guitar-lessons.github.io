@@ -21,30 +21,22 @@
     
 -**[Lesson 2: Learning the Fretboard Notes](#heading)**
   
--**Lesson 3: Single Notes, Fretboard Tracking](#sub-heading)**
+-**[Lesson 3: Single Notes, Fretboard Tracking](#heading)**
   
--**[Lesson 4: First Chords](#sub-heading)**
+-**[Lesson 4: First Chords](#heading)**
   
--**[Lesson 5: Additional Chord Types](#sub-heading)**
+-**[Lesson 5: Additional Chord Types](#heading)**
   
--**[Lesson 6: Intro to Basic Guitar Scales](#sub-heading)**
+-**[Lesson 6: Intro to Basic Guitar Scales](#heading)**
   
--**[Lesson 7: Intervals and Power Chords](#sub-heading)**
+-**[Lesson 7: Intervals and Power Chords](#heading)**
   
--**[Lesson 8: Soloing Technique](#sub-heading)**
+-**[Lesson 8: Soloing Technique](#heading)**
   
--**[Lesson 9: More Complex Scales and Improvising](#sub-heading)**
+-**[Lesson 9: More Complex Scales and Improvising](#heading)**
   
--**Lesson 10: Rhythm and Song Dynamics](#sub-heading)**
+-**[Lesson 10: Rhythm and Song Dynamics](##heading)**
   
   
-  
-   
-   
-    
-
-
-
-
 
 Author: Saurav Sahu (ssahu@uvic.ca)

@@ -1,4 +1,4 @@
-## Beginners Guitar Lessons for Arushi Shory
+## Beginners Guitar Lessons for Aarushi Shory
 
 
 ### Course Content: First Few Weeks
